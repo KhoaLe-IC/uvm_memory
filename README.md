@@ -37,7 +37,3 @@ Mỗi test hiện có 138 request được kiểm tra. Chưa đo native coverage
 | `tb/` | Interface, UVM package, top |
 | `eda_playground/` | Hai file gộp để dán lên Playground |
 | `scripts/` | Export EDA và công cụ chạy local tùy chọn |
-
-## Đưa lên GitHub
-
-Đọc [GITHUB_UPLOAD.md](GITHUB_UPLOAD.md). Repo dùng [MIT License](LICENSE); xem [CONTRIBUTING.md](CONTRIBUTING.md) khi thay đổi code và [DEPENDENCIES.md](DEPENDENCIES.md) cho dependency. Các file build, dependency tải về và raw log được bỏ qua bởi `.gitignore`.
