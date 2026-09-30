@@ -1,0 +1,23 @@
+# Generated simulator output
+/build/
+/obj_dir/
+/.deps/
+/results/*.log
+/results/*.vcd
+/results/*.fst
+/results/*.wdb
+*.o
+*.a
+*.d
+core
+core.*
+# Editors and OS
+.vscode/
+.idea/
+*~
+.DS_Store
+
+# Historical local logs are kept on this machine only
+/results/examples/
+__pycache__/
+*.pyc
